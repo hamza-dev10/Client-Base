@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import Logo from "../../../public/Logo.png";
-import Search from "../../../public/search.png";
+import Search from "../../../public/Search.png";
 import Mail from "../../../public/mail.png";
 import Profile from "../../../public/profile.png";
 import Notification from "../../../public/notification.png";

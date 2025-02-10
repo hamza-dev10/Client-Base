@@ -3,7 +3,7 @@ import DealsIcon from "../../../public/deals-icon.png";
 import ActiveDealsChart from "../../../public/active-deals-chart.png";
 import PieChartIcon from "../../../public/pie-chart-icon.png";
 import PieChart from "../../../public/pie-chart.png";
-import ArrowRight from "../../../public/Button-arrow (1).png";
+import ArrowRight from "../../../public/Button-Arrow (1).png";
 
 const SalesPipeline = () => {
   return (

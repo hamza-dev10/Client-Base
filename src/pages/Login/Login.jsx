@@ -1,4 +1,4 @@
-import LoginImage from "../../../public/left.png";
+import LoginImage from "../../../public/Left.png";
 import Input from "../../components/Input";
 import Logo from "../../../public/Logo.png";
 import googleIcon from "../../../public/google-icon.png";

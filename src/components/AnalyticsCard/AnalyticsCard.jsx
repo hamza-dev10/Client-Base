@@ -1,5 +1,5 @@
 import SalesIcon from "../../../public/Chart.png";
-import ArrowRight from "../../../public/Button-arrow (1).png";
+import ArrowRight from "../../../public/Button-Arrow (1).png";
 import DollarIcon from "../../../public/Chart (1).png";
 import ProfitIcon from "../../../public/Chart (2).png";
 import Graph from "../../../public/Chart-Auto-Layout.png";

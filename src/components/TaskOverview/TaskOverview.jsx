@@ -3,7 +3,7 @@ import CalendarIcon from "../../../public/calendar-icon.png";
 import ZoomIcon from "../../../public/zoom.png";
 import MeetingIcon from "../../../public/meeting.png";
 import ClockIcon from "../../../public/time-icon.png";
-import TaskChart from "../../../public/Task-chart.png";
+import TaskChart from "../../../public/task-chart.png";
 
 const TaskOverview = () => {
   return (
